@@ -23,8 +23,8 @@ function App() {
       "@type": "Event",
       "name": "Imersão Construindo Milionários",
       "description": "Aprenda com os maiores nomes do digital a criar, escalar e vender todos os dias.",
-      "startDate": "2023-07-26T09:30",
-      "endDate": "2023-07-27T17:30",
+      "startDate": "2025-07-26T09:30",
+      "endDate": "2025-07-27T17:30",
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "location": {
