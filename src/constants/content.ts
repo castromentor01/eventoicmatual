@@ -3,7 +3,7 @@ export const eventData = {
   headline: "Vender todos os dias será sua realidade",
   subheadline: "Você frente a frente com os maiores nomes do digital durante dois dias de muito conteúdo HighLevel",
   ctaButton: "Garanta sua vaga",
-  eventDate: "26 e 27 de Julho de 2023",
+  eventDate: "26 e 27 de Julho de 2025",
   eventLocation: "Alphaville/SP",
   hostHighlight: "+R$5 milhões em vendas através de anúncios. Agora é sua vez.",
   hostName: "Léo Castro",
